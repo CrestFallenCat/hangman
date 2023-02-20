@@ -1,0 +1,21 @@
+.help {
+  background-color: blueviolet;
+  color: white;
+  font-weight: bold;
+  margin-top: 2%;
+  border-style: solid;
+  border-color: rgb(255, 16, 239);
+  border-radius: 5px;
+  font-size: large;
+  cursor: pointer;
+}
+.help:hover {
+  background-color: rgb(247, 17, 255);
+  border-color: blueviolet;
+}
+
+.help:active {
+  font-size: 25px;
+  background-color: rgb(49, 48, 48);
+  color: red;
+}
